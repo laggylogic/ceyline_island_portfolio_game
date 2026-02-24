@@ -110,9 +110,9 @@ export const dialogueData = {
     `He likes to stand in front of them and pretend he knows how to read.`,
   ],
   resume: [
-    `This is Joseph's résumé.`,
+    `This is Ceyline's résumé.`,
     `I contain achievements so dense they slightly bend reality.`,
-    `Open me now before I add "World Domination (In Progress)" to Experience: <a href="https://github.com/DataGod9000/Joseph_Resume/blob/main/Eng_Wei_Jie_Joseph_Resume.pdf" target="_blank">DataGod's Resume</a>`,
+    `Open me now before I add "World Domination (In Progress)" to Experience: <a href="https://github.com/laggylogic/ceyline_resume" target="_blank">Ceyline's Resume</a>`,
   ],
   // Ceyline's Island dialogues
   friends: [
@@ -133,10 +133,10 @@ export const dialogueData = {
   // Ceyline's House dialogues
   ceyline_computer: [
     `This is Ceyline's computer.`,
-    `37 Chrome tabs. 12 of them are Stack Overflow. 3 are matcha recipes.`,
-    `The code works. She doesn't know why. She's afraid to ask.`,
-    `Her GitHub is here: <a href="https://github.com/laggylogic" target="_blank">github.com/laggylogic</a>`,
-    `Bottom frag coder. Top tier debugger of her own emotional damage.`,
+    `She spends most of her time here writing code and occasionally whiffing in Valorant.`,
+    `37 Chrome tabs open, 12 of them are Stack Overflow, 3 are matcha recipes. The rest? Financially questionable decisions.`,
+    `Curiosity turned into projects. Projects turned into commits. Commits live here: <a href="https://github.com/laggylogic" target="_blank">github.com/laggylogic</a>`,
+    `Early-stage build. Feedback welcomed. Mercy is optional but encouraged.`,
   ],
   sister_computer: [
     `This is Ceyline's sister's computer.`,

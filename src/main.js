@@ -19,6 +19,7 @@ k.loadSprite("spritesheet", "./spritesheet.png", {
     "npc-kiki": { from: 780, to: 781, loop: true, speed: 4 },
     "npc-moca": { from: 788, to: 789, loop: true, speed: 4 },
     "npc-bunny": { from: 780, to: 781, loop: true, speed: 4 },
+    "npc-ghost": { from: 864, to: 865, loop: true, speed: 4 },
   },
 });
 
@@ -287,10 +288,10 @@ function addMovementAndCamera(player, options = {}) {
 
   k.onKeyDown((key) => {
     const keyMap = [
-      k.isKeyDown("right"),
-      k.isKeyDown("left"),
-      k.isKeyDown("up"),
-      k.isKeyDown("down"),
+      k.isKeyDown("right") || k.isKeyDown("d"),
+      k.isKeyDown("left") || k.isKeyDown("a"),
+      k.isKeyDown("up") || k.isKeyDown("w"),
+      k.isKeyDown("down") || k.isKeyDown("s"),
     ];
     let nbOfKeyPressed = 0;
     for (const key of keyMap) {
@@ -489,6 +490,25 @@ k.scene("ceyline_house", async () => {
     false,
     0.4
   );
+
+  // Animated NPCs in ceyline_house
+  const houseNpcAnims = { ghost: "npc-ghost" };
+  const houseTriggers = mapData.layers?.find((l) => l.name === "dialogue_triggers");
+  if (houseTriggers) {
+    for (const obj of houseTriggers.objects) {
+      const anim = houseNpcAnims[obj.name];
+      if (!anim) continue;
+      const x = (obj.x + (obj.width || 0) / 2) * scaleFactor;
+      const y = (obj.y + (obj.height || 0) / 2) * scaleFactor;
+      k.add([
+        k.sprite("spritesheet", { anim }),
+        k.pos(x, y),
+        k.anchor("center"),
+        k.scale(scaleFactor),
+        k.z(0),
+      ]);
+    }
+  }
 
   setCamScale(k);
   k.onResize(() => setCamScale(k));
