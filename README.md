@@ -46,7 +46,7 @@ This is real. You did not hallucinate it.
 npm run preview
 ```
 
-Congratulations. You are now playtesting Joseph.
+Congratulations. You are now playtesting Ceyline.
 
 ---
 
