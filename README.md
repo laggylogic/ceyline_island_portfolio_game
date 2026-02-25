@@ -67,6 +67,9 @@ Congratulations. You are now playtesting Ceyline.
 
 - **Computer** – The command center where code gets written, bugs get negotiated, and Valorant gets dangerously competitive.GitHub contains evidence. And confidence. Runs primarily on matcha, ambition, and occasional pocket sage behavior.
 - **Study Table** –  Where ambitions sit, deadlines loom, and dramatic life decisions are made at 2am.
+- - **Bed** –  Once a scrolling sanctuary, now a disciplined recovery checkpoint.
+- - **Bookshelf** –  A quiet archive of inherited coding wisdom and postponed self-transformation.
+- - **hobby Station** –  A curated display of refined taste and questionable financial timing.
 - **Diploma** – Proof she survived morning classes, deadlines, and group projects. Officially educated. Emotionally seasoned.
 - **Matcha Station** – The true power source of Ceyline Island. Whisks ambition into existence. Productivity increases by 37% per cup. Non-negotiable ritual.
 - **Coffee machine** – Could also be a printer. No one is certain.
