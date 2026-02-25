@@ -54,31 +54,23 @@ Congratulations. You are now playtesting Joseph.
 
 ### On the island (outside)
 
-- **The Slime** – Your first encounter. It explains Joseph Land. It is also a slime. Budget constraints were involved. It has personality.
-- **Wenzheng** – Grand Master (Managing Director) of the Data Guild. Once attempted to stump Joseph. Joseph replied with performance metrics. He is still recovering.
-- **Janet** – Keeper (Executive Director) of the Data Guild. Signs approval scrolls while Joseph reorganizes reality. Encourages you to hire him before another kingdom does.
-- **Evan** – Vice President. Gave Joseph an impossible timeline. Joseph finished early. Legacy systems fear him.
-- **Chest 1 & Chest 2** – Wooden. Locked. Suspicious. We are not elaborating.
+- **The Bunny** – Welcomes you the moment you spawn and delivers a surprisingly professional briefing. Soft. Polite. Slightly overqualified. Knows exactly what’s on this island and why you’re here.
+- **Joseph** – Ceyline’s financially minimalist boyfriend.Currently operating between ambition and rent. Supportive, hopeful and mildly unemployed. Strategically invested in Ceyline’s long-term financial success.
+- **The Guard** – Stationed at the gate by parental decree. Keeps Ceyline’s trust fund locked and safe from absolutely everyone. Yes, even her. Until further notice, she must venture out, collect experience, and grind her own gold like a responsible protagonist.
 
 ### Inside the house (the room)
 
-- **Dad** – Early-stage investor. ROI looking strong. Hiring Joseph directly impacts retirement stability. This is not subtle.
-- **Mom** – Built Joseph from scratch. Already told every auntie he is successful. You are now part of this narrative.
-- **Kiki** – Small dog. Emotionally powerful. Treat economy depends on Joseph's employment status.
-- **Moca** – Also a dog. Cute beyond negotiation. A no-hire scenario may trigger snack austerity measures.
-- **Ceyline** – Rich Indochinese girlfriend. If you do not hire Joseph, he will tragically survive on her large trust fund. Villas. Yachts. Financial peace. Please do not force this outcome.
+- **Aurellya** – Ceyline’s sister. Retired IT developer who escaped the tech life and is now drafting a bold retirement plan: opening a bakery. Strategically invested in Ceyline’s future income streams. Call it “family collaboration.” It is not optional.
+- **The Ghost** – Floats near the study table. Says nothing. Judges everything. Somehow louder when deadlines exist.
 
 ### Things you can click on
 
-- **Computer** – Claims Joseph knows all programming languages. Evidence and possible exaggeration on GitHub.
-- **TV** – Currently playing 10 uninterrupted hours of something boomers consider thrilling.
-- **Fridge** – Contains historical artifacts. Possibly sentient dairy.
-- **Diploma** – Master's in CS from UPenn. Proof that someone who once fought a printer driver survived the Ivy League.
-- **Game console** – Valorant instalock duelist behavior. No apologies. Also evangelizes Suikoden II aggressively.
+- **Computer** – The command center where code gets written, bugs get negotiated, and Valorant gets dangerously competitive.GitHub contains evidence. And confidence. Runs primarily on matcha, ambition, and occasional pocket sage behavior.
+- **Study Table** –  Where ambitions sit, deadlines loom, and dramatic life decisions are made at 2am.
+- **Diploma** – Proof she survived morning classes, deadlines, and group projects. Officially educated. Emotionally seasoned.
+- **Matcha Station** – The true power source of Ceyline Island. Whisks ambition into existence. Productivity increases by 37% per cup. Non-negotiable ritual.
 - **Coffee machine** – Could also be a printer. No one is certain.
-- **Shelves** – Books. Many books. Reading status classified.
-- **Resume** – On the desk. Highly optimized flex document. Open before it updates itself.
-- **Drawers** – Clothes and cables. The universal constant.
+- **Fridge** – A quiet reflection of the current economic storyline. Functional. Hopeful. Awaiting a plot twist.
 
 ---
 
